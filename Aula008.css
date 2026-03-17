@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    background-color: rgb(10, 10, 206);
+    color: rgb(119, 6, 6);
+    border-radius: 20px;
+    text-align: center;
+}
+h2 {
+    text-shadow: 2px 2px 4px rgb(63, 103, 160);
+}#texto-verde {
+    background-color: green;
+}
+ p { color: pink;
+
+ }
+ .texto-azul{
+color: blue;
+ }
